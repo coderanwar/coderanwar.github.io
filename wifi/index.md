@@ -11,6 +11,6 @@ Mega Bits per sec (Mbps):
 
 
 # Speed test by Netflix (fast.com) (Regular Bandwidth)
-MegaBytes per sec (MB/s) (MiB/s):
+Mega Bits per sec (Mbps):
 
 ![](https://coderanwar.github.io/wifi/fast.png)
